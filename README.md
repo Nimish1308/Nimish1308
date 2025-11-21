@@ -9,7 +9,7 @@ div {
   transition: width 2s, height 2s, background-color 2s, transform 2s;
 }
 
-div:hover {
+div: hover {
   width: 300px;
   height: 300px;
   background-color: orange;  
