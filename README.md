@@ -5,15 +5,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=h1{Hi Check my video}, initial-scale=1.0">
     <title>Document</title>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 </head>
 
 <body>
-    <h1>Hi Check my video</h1>
-    <div class="youtube">
-        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/DxjJdf5EXuw?si=DGJDDQMrFAEbq-XF"
-            title="YouTube video player" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
+    <div data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine" style="background-color: blue; color: wheat; padding: 20px;">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga maiores quaerat maxime tempora eius sint impedit quas quos itaque libero, ducimus mollitia magni commodi dolores asperiores inventore. Quis, placeat asperiores?
+        Quia quisquam beatae praesentium perspiciatis, repellendus illo voluptatum iusto hic similique amet. Ipsum numquam magni sapiente amet! Unde, eos. Culpa, unde? Aspernatur rerum amet officia, laborum atque sed eum quas.
+        Vitae sapiente commodi, ut dolorum nemo consectetur earum possimus nulla assumenda ad incidunt iure maxime cum laborum error in temporibus esse? Eum ullam voluptatum eaque laudantium iste consectetur architecto. Enim.
     </div>
 </body>
 
