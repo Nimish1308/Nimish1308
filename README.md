@@ -1,31 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
-  <style> 
-div {
-  width: 100px;
-  height: 100px;
-  background-color: red;
-  transition: width 2s, height 2s, background-color 2s, transform 2s;
-}
-
-div:hover {
-  width: 300px;
-  height: 300px;
-  background-color: orange;  
-  transform: rotate(180deg);
-}
-</style>
 <body>
-
-<h1>Transition + Transform</h1>
-
-<p>Hover over the div element below:</p>
-
-<div></div>
-
+    <img src="https://res.cloudinary.com/ecomdb/image/upload/v1752559354/products/zhm4cjywzkrg1igsihus.jpg" alt="" srcset="">
 </body>
 </html>
-
-
