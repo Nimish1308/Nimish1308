@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Hi Welcome User</h1>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW03MXRhcTNmMDFrZHlubTNhMXg5aHRrdDFzMWgzeXVuNGp2ZWVlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jo7y6XHW6LOeTZvF5b/giphy.gif" alt="" srcset=""
-       style="margin-left: 90px;">
+     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ4dXpscjlmMzFjZnp3Nmk2ZHZqczdlcng1dmcyZjFocGxyNzB3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0L3tl4fzhYefGzAplE/giphy.gif" alt="" srcset=""
+    style="margin-left: 800px;">
 </body>
 </html>
