@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="https://res.cloudinary.com/ecomdb/image/upload/v1752559354/products/zhm4cjywzkrg1igsihus.jpg" alt="" srcset="">
+   
 </body>
 </html>
